@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Trophies:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=dragonfi)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
