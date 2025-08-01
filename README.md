@@ -2,7 +2,7 @@
 
 Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dragonfi)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dragonfi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **dragonfi/dragonfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
